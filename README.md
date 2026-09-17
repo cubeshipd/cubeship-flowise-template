@@ -110,3 +110,15 @@ The app is limited to 1 CPU and 2 GiB of memory. The models run in Ollama or
 behind the API you connect, not here; large document loaders, the headless
 browser scrapers and in-memory vector stores are what need more — raise
 `limits` in `template.yaml`.
+
+---
+
+<!-- cubeship-crosslink -->
+
+## About Cubeship
+
+This is a template for [**Cubeship**](https://github.com/cubeshipd/cubeship) —
+a PaaS you run on your own server: `docker push`, and it is live, with HTTPS,
+a database beside it, and a second machine when one stops being enough.
+
+Browse every template at [cubeship.dev/templates](https://cubeship.dev/templates).
